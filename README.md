@@ -1,2 +1,2 @@
 # oats
-orchestrated agentic task syntax
+programming language with built in LLM reasoning
